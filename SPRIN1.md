@@ -53,5 +53,22 @@ Instal·lem el programa:
 <img width="888" height="716" alt="image" src="https://github.com/user-attachments/assets/b2614d25-b942-492f-9960-a68657e6aaf6" />
 
 
+Mirem la versió:
+<img width="808" height="492" alt="image" src="https://github.com/user-attachments/assets/a24a53ca-733d-4c4b-bb54-ca2ca42af898" />
+
+
+<img width="940" height="591" alt="image" src="https://github.com/user-attachments/assets/5c1254b4-ff59-4d1d-907d-0e1c3139e8ef" />
+
+Comanda: localectl status | grep -i keymap
+
+Consulta el mapa de teclat de consola. La sortida indica que VC Keymap no està definit, motiu pel qual les proves passen explícitament un mapa a logkeys
+
+Captura 13
+Comanda: localectl status
+
+Mostra la configuració regional i del teclat: VC Keymap: (unset) i X11 Layout: es. Això confirma que el teclat gràfic és espanyol, mentre que el mapa de consola no està definit.
+
+<img width="543" height="154" alt="image" src="https://github.com/user-attachments/assets/b11d9757-f1eb-40a7-82d7-534809f4f5f4" />
+
 
 
