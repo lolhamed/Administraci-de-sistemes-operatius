@@ -108,3 +108,26 @@ El shell torna a indicar que hola no és una comanda executable. La captura il·
 Comanda: sudo cat /tmp/test_es.log
 
 Mostra el registre de la prova amb el mapa espanyol. La frase de prova apareix descodificada dins del fitxer, juntament amb les marques de tecles especials i les marques de temps.
+
+
+
+
+Aquest serà el nostre script:
+
+<img width="866" height="515" alt="image" src="https://github.com/user-attachments/assets/8bf7a93e-11fa-463c-982e-29ee35928ef8" />
+
+Assignem permisos:
+<img width="785" height="67" alt="image" src="https://github.com/user-attachments/assets/c3f2cf2d-694c-498f-ad0c-96d345971c73" />
+
+
+
+Provem el script en segon pla:
+<img width="940" height="99" alt="image" src="https://github.com/user-attachments/assets/df287ab7-cc84-48c5-9cc5-eea5ad744e2f" />
+
+<img width="831" height="87" alt="image" src="https://github.com/user-attachments/assets/a3a4937c-ba6e-464a-a067-58c878e722cf" />
+
+Comandes: sudo pkill -f logkeys i ps aux | grep logkeys
+
+Atura la instància manual i comprova amb la llista de processos que no queda cap procés logkeys en execució, a banda del mateix grep.
+
+<img width="831" height="87" alt="image" src="https://github.com/user-attachments/assets/00b11edc-77a3-4379-ad57-906439a9a48c" />
