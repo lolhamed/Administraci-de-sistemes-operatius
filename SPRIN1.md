@@ -130,4 +130,18 @@ Comandes: sudo pkill -f logkeys i ps aux | grep logkeys
 
 Atura la instància manual i comprova amb la llista de processos que no queda cap procés logkeys en execució, a banda del mateix s grep.
 
-<img width="831" height="87" alt="image" src="https://github.com/user-attachments/assets/00b11edc-77a3-4379-ad57-906439a9a48c" />
+
+
+Aquest serà el nostre target:
+<img width="801" height="192" alt="image" src="https://github.com/user-attachments/assets/745b9e84-ce82-4b28-97d8-ff470a20aca9" />
+
+
+
+<img width="853" height="360" alt="image" src="https://github.com/user-attachments/assets/a8015c79-b82b-4d01-81dc-4ca929687bc3" />
+
+
+Comandes: sudo systemctl daemon-reload, sudo systemctl enable lluc-keylogger.service, sudo systemctl enable lluc.target i sudo systemctl set-default lluc.target
+
+<img width="1097" height="406" alt="image" src="https://github.com/user-attachments/assets/2a3f6ef1-8f76-4cdc-8fef-266205509e6b" />
+
+
