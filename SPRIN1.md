@@ -27,3 +27,12 @@ Comprovem que esta tot instal·lat:
 
 
 
+
+Instal·lem el compilador i les eines per poder configurar el nostre futur keylogger:
+
+<img width="638" height="416" alt="image" src="https://github.com/user-attachments/assets/70a1d3ca-3200-4a4c-9535-890d9dee260f" />
+
+
+Clonem el repositori de logkeys i podem veure que s'ha descarregat:
+
+<img width="631" height="170" alt="image" src="https://github.com/user-attachments/assets/99d99a90-e3aa-44bd-ac4f-f568f38075ec" />
