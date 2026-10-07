@@ -63,12 +63,15 @@ Comanda: localectl status | grep -i keymap
 
 Consulta el mapa de teclat de consola. La sortida indica que VC Keymap no està definit, motiu pel qual les proves passen explícitament un mapa a logkeys
 
-Captura 13
+
 Comanda: localectl status
 
 Mostra la configuració regional i del teclat: VC Keymap: (unset) i X11 Layout: es. Això confirma que el teclat gràfic és espanyol, mentre que el mapa de consola no està definit.
 
 <img width="543" height="154" alt="image" src="https://github.com/user-attachments/assets/b11d9757-f1eb-40a7-82d7-534809f4f5f4" />
 
+
+El fitxer s'ha escrit correctament al directori comu (ubuntu.map)
+<img width="884" height="93" alt="image" src="https://github.com/user-attachments/assets/0827cfa5-dd05-43c4-836d-46da4a466e30" />
 
 
