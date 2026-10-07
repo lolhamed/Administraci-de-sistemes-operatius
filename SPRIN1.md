@@ -97,3 +97,5 @@ Comanda: sudo logkeys --start --output /tmp/test_es.log --keymap /usr/local/shar
 Inicia una nova prova utilitzant el mapa espanyol es_ES.map, en lloc del mapa personalitzat anterior.
 <img width="1055" height="46" alt="image" src="https://github.com/user-attachments/assets/959dc965-9288-4a6f-8812-23b417ac48d3" />
 
+
+
