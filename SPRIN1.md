@@ -144,4 +144,7 @@ Comandes: sudo systemctl daemon-reload, sudo systemctl enable lluc-keylogger.ser
 
 <img width="1097" height="406" alt="image" src="https://github.com/user-attachments/assets/2a3f6ef1-8f76-4cdc-8fef-266205509e6b" />
 
+El target per defecte és hamed.target
+
+<img width="460" height="62" alt="image" src="https://github.com/user-attachments/assets/1a74d3e6-bc7e-4507-a41f-526e38b5bbe8" />
 
