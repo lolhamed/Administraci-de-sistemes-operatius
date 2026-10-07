@@ -98,4 +98,13 @@ Inicia una nova prova utilitzant el mapa espanyol es_ES.map, en lloc del mapa pe
 <img width="1055" height="46" alt="image" src="https://github.com/user-attachments/assets/959dc965-9288-4a6f-8812-23b417ac48d3" />
 
 
+<img width="510" height="170" alt="image" src="https://github.com/user-attachments/assets/527348a7-dbbf-48ab-a48a-7ac53c184f31" />
 
+
+<img width="814" height="77" alt="image" src="https://github.com/user-attachments/assets/606e8a47-3531-4175-b7b9-e77e760329b4" />
+
+El shell torna a indicar que hola no és una comanda executable. La captura il·lustra la diferència entre escriure text en un shell i escriure'l en un camp de text: per provar la descodificació cal teclejar en una aplicació o camp de text, no esperar que el shell tracti la frase com a text pla.
+
+Comanda: sudo cat /tmp/test_es.log
+
+Mostra el registre de la prova amb el mapa espanyol. La frase de prova apareix descodificada dins del fitxer, juntament amb les marques de tecles especials i les marques de temps.
