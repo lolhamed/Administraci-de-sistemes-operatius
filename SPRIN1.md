@@ -74,4 +74,26 @@ Mostra la configuració regional i del teclat: VC Keymap: (unset) i X11 Layout: 
 El fitxer s'ha escrit correctament al directori comu (ubuntu.map)
 <img width="884" height="93" alt="image" src="https://github.com/user-attachments/assets/0827cfa5-dd05-43c4-836d-46da4a466e30" />
 
+LListem els mapes instal·lats:
+<img width="689" height="563" alt="image" src="https://github.com/user-attachments/assets/aeb62dd0-81d1-4d59-8f8f-c3c76d5b5f89" />
+
+Després s'escriu una frase al terminal com si fos una comanda i el shell respon que hola no s'ha trobat; a més, el fitxer no es pot llegir sense privilegis (cat: /tmp/test.log: Permission denied). Amb sudo cat /tmp/test.log es pot comprovar que hi ha registres, però la descodificació no és correcta.
+
+<img width="1204" height="187" alt="image" src="https://github.com/user-attachments/assets/6fd9ab10-b794-4876-b5c8-438dedc542c5" />
+
+
+Comandes: head -5 /usr/local/share/logkeys/keymaps/lluc.map i sudo pkill -f logkeys
+
+Inspecciona les primeres línies del mapa personalitzat i atura la instància de prova abans de repetir-la amb un altre mapa.
+
+<img width="757" height="138" alt="image" src="https://github.com/user-attachments/assets/6b60888a-25fc-4a45-a5d2-1c72b7ef072d" />
+
+<img width="500" height="41" alt="image" src="https://github.com/user-attachments/assets/f978e03d-d264-4373-baec-a3d658fb55d4" />
+
+
+
+Comanda: sudo logkeys --start --output /tmp/test_es.log --keymap /usr/local/share/logkeys/keymaps/es_ES.map
+
+Inicia una nova prova utilitzant el mapa espanyol es_ES.map, en lloc del mapa personalitzat anterior.
+<img width="1055" height="46" alt="image" src="https://github.com/user-attachments/assets/959dc965-9288-4a6f-8812-23b417ac48d3" />
 
