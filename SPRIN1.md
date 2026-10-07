@@ -12,14 +12,14 @@ Primer, he instal·lat,l'entorn d'escriptori XFCE, l'eina de captures scrot, Pyt
 
 <img width="636" height="464" alt="image" src="https://github.com/user-attachments/assets/fa4d53e9-2e2e-40a6-85d5-1f05630645c8" />
 
-
+___
 
 
 EScollim lightdm
 <img width="628" height="472" alt="image" src="https://github.com/user-attachments/assets/36f783f4-ac5f-4b68-ab47-ffb260a82606" />
 
 
-
+____
 
 
 Comprovem que esta tot instal·lat:
