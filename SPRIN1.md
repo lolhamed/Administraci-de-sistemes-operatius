@@ -148,6 +148,9 @@ Comandes: sudo systemctl daemon-reload, sudo systemctl enable lluc-keylogger.ser
 
 
 
+<img width="701" height="521" alt="image" src="https://github.com/user-attachments/assets/b0186ad5-2ba5-4754-98e3-1b5fb6e1a551" />
+
+
 
 
 
