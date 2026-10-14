@@ -164,3 +164,9 @@ El target per defecte és hamed.target
 
 
 <img width="649" height="265" alt="image" src="https://github.com/user-attachments/assets/d96a4fe4-1328-406d-9523-153ba997a5b2" />
+
+
+<img width="714" height="475" alt="image" src="https://github.com/user-attachments/assets/6f517dc7-04f0-4dd6-b0dd-1a2cf188e2a1" />
+
+<img width="709" height="473" alt="image" src="https://github.com/user-attachments/assets/da7f8215-147d-4eec-b97b-e39789895822" />
+
